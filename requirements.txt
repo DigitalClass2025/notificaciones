@@ -2,3 +2,10 @@ fastapi
 uvicorn
 sqlalchemy
 python-dotenv
+fastapi
+uvicorn[standard]
+sqlalchemy
+jinja2
+python-multipart
+itsdangerous
+requests
